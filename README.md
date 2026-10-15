@@ -1,38 +1,94 @@
-# Zohra Haidary
 
-**Computer Science Student | Software Developer**
+<div align="center">
 
-I'm a Computer Science student at Wilfrid Laurier University with experience in full-stack development, RESTful APIs, databases, and AI integration. I focus on building reliable, user-focused applications and improving my software engineering skills through hands-on projects.
+# hey, I'm Zohra Haidary ♡
 
-## Technical Skills
+**software developer · creative thinker**
 
-- **Languages:** Java, Python, TypeScript, JavaScript, C, SQL
-- **Frontend & Mobile:** Angular, React, Next.js, HTML, CSS, Tailwind CSS, Android
-- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, GitHub Actions, CI/CD, Linux, Android Studio
-- **AI:** Anthropic Claude API, LLM Integration
+<br>
 
-## Selected Projects
+computer science @ wilfrid laurier university
 
-### [Trackr AI](https://github.com/HZohra/TrackrAI)
+*I love turning ideas into things you can actually use.*  
+from the logic behind the scenes to the little details on screen,  
+I enjoy making software that's thoughtful, functional, and beautiful.
 
-Full-stack academic management platform featuring AI-powered syllabus processing, assignment tracking, and grade management.
+<br>
 
-**Tech:** Angular, TypeScript, Node.js, Express.js, MySQL
+[portfolio](https://github.com/HZohra/Portfolio) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/zohra-haidary-318575201/) &nbsp;·&nbsp;
+[email](mailto:haidaryzohra@gmail.com)
 
-[Live Demo](https://trackr-ai.onrender.com/)
+</div>
 
-### [BiteWise](https://github.com/HZohra/Bitewise-fullstack)
-Full-stack meal recommendation application supporting dietary preferences, allergies, and restaurant discovery.
+---
 
-**Tech:** React, Node.js, Express.js, MongoDB
+### ✳ a little about me
 
-[Live Demo](https://cp-317-bite-wise.vercel.app/)
+I'm a developer who enjoys both the technical and creative sides of building software.
 
-### Android Application — In Development
-Collaborative native Android development project using Java, Kotlin, XML, and Android Studio.
+I work with full-stack applications, APIs, and databases, but I also love experimenting with UI/UX, typography, layouts, and those small design details that make an experience feel just right.
 
-## Contact
+Currently exploring Android development, AI integrations, and better ways to bring design and engineering together.
 
-[LinkedIn](https://www.linkedin.com/in/zohra-haidary-318575201/) | [Email](mailto:haidaryzohra@gmail.com)
+### my little toolbox
+
+| | technologies |
+| :--- | :--- |
+| **languages** | Java · Python · TypeScript · JavaScript · C · SQL |
+| **frontend** | Angular · React · Next.js · HTML · CSS · Tailwind CSS |
+| **backend** | Node.js · Express.js · REST APIs |
+| **databases** | MySQL · MongoDB |
+| **design** | Figma · UI/UX · Responsive Design |
+| **tools** | Git · GitHub Actions · CI/CD · Linux · Android Studio |
+| **exploring** | Android · AI/LLMs · Machine Learning |
+
+<br>
+
+### selected work ↗
+
+**01 / [trackr ai](https://github.com/HZohra/TrackrAI)** &nbsp; [↗ live demo](https://trackr-ai.onrender.com/)
+
+An AI-powered academic planner that makes managing courses, assignments, and deadlines a little less overwhelming.
+
+`Angular` `TypeScript` `Node.js` `MySQL` `Claude API`
+
+<br>
+
+**02 / [bitewise](https://github.com/HZohra/Bitewise-fullstack)** &nbsp; [↗ live demo](https://cp-317-bite-wise.vercel.app/)
+
+Making the question "what should I eat?" a little easier, with personalized meal recommendations for different dietary needs.
+
+`React` `JavaScript` `Express.js` `MongoDB`
+
+<br>
+
+**03 / [portfolio](https://github.com/HZohra/Portfolio)**
+
+My own corner of the internet. A space to experiment with layouts, interactions, and the intersection of design and development.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+<br>
+
+### these days...
+
+- building native Android applications with Java and Kotlin
+- exploring more intentional, accessible UI/UX design
+- learning more about AI, software architecture, and scalable systems
+
+---
+
+<div align="center">
+
+*always learning, always making something.*
+
+**have an idea, a question, or just want to say hi?**
+
+[let's connect ↗](https://www.linkedin.com/in/zohra-haidary-318575201/)
+
+<br>
+
+<sub>made with curiosity, code & a little attention to detail ♡</sub>
+
+</div>
